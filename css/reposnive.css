@@ -1,0 +1,58 @@
+/* 375 px */
+@media (max-width: 1024px) {
+    .square-group {
+        width: 740px;
+        height: 430px;
+    }
+    .square-content {
+        width: 200px;
+        height: 350px;
+    }
+    .square-content h1 {
+        font-size: 2.2rem;
+    }
+    .square-content p {
+        line-height: 22px;
+    }
+    .square-content button {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 799px) {
+    .container {
+        width: auto;
+        height: 1600px;
+    }
+    .square-group {
+        flex-direction: column;
+        height: auto;
+        width: auto;    
+    }
+    .single-square {
+        width: 340px;
+        height: 480px;   
+    }
+    .square-content {
+        width: 230px;
+        height: 350px;
+    }
+    .sedans {
+        border-radius: 10px 10px 0px 0px;
+    }
+    .luxury {
+        border-radius: 0px 0px 10px 10px;
+    }
+    
+}
+
+
+
+
+@media (max-width: 375px) {
+    .single-square {
+        width: 310px;
+        height: 480px;   
+    }
+    
+}
