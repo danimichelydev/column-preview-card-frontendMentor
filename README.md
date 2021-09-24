@@ -46,5 +46,5 @@ Os usuários devem ser capazes de:
 - Website - https://www.linkedin.com/in/dani-michely/
 - Github - https://github.com/danimichelydev
 - Frontend Mentor - @danimichelydev
-- Instagram - @danielamichely
+- Linkedin: https://www.linkedin.com/in/dani-michely/
 
