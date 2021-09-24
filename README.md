@@ -1,38 +1,50 @@
+# Desafio - Frontend Mentor - Column Preview Card Component
 
-
-<h1>Sobre o projeto</h1>
-
-Este projeto é um desafio para o iniciante do site Frontend Mentor.
-
+Esse é um desafio do Frontend Mentor com o objetivo de treinar e desenvolver habilidades nível start numa página responsiva.
 
 
 
+### O desafio
 
-### Tecnologias utilizadas
+Os usuários devem ser capazes de:
 
-- #### HTML5
+- Visualizar o layout ideal para o site, dependendo do tamanho da tela do dispositivo
 
-- #### CSS3
+- Ver estados de foco para todos os elementos interativos na página
 
-  ​	<u>Para disposição dos elementos em tela foi usado Flexbox</u>.
+  
+
+### Screenshot
+
+![](./screenshot.png)
+
+
+
+### Links
+
+- Solução URL: https://dani-michely-column-preview-card.netlify.app/
+
+## Meu processo
+
+### Construído com
+
+- HTML5
+
+- CSS3
+
+- Flexbox
+
+- Mobile-first
+
+- Media Query
 
   
 
 
+## Autora
 
-#### Autor: Dani Michely
-
-https://www.linkedin.com/in/dani-michely/
-
-https://dani-michely-column-preview-card.netlify.app/
-
-
-
-
-
-
-
-
-
-
+- Website - https://www.linkedin.com/in/dani-michely/
+- Github - https://github.com/danimichelydev
+- Frontend Mentor - @danimichelydev
+- Instagram - @danielamichely
 
