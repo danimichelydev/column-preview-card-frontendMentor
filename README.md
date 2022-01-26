@@ -42,8 +42,6 @@ Os usuários devem ser capazes de:
 
 
 ## Autora
-
-- Website - https://www.linkedin.com/in/dani-michely/
 - Github - https://github.com/danimichelydev
 - Frontend Mentor - @danimichelydev
 - Linkedin: https://www.linkedin.com/in/dani-michely/
